@@ -1,0 +1,22 @@
+@import url("https://fonts.googleapis.com/css2?family=Lato&display=swap");
+
+body {
+    background: #cccccc;
+}
+
+#title {
+    font-size: 100px;
+}
+
+#description {
+    margin-top: 20px;
+    margin-left: 200px;
+    margin-right: 200px;
+    font-size: 30px;
+}
+
+div {
+    color: #0000bf;
+    font-family: Lato;
+    text-align: center;
+}

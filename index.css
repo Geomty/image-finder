@@ -1,0 +1,63 @@
+@import url("https://fonts.googleapis.com/css2?family=Lato&display=swap");
+
+body {
+    background-color: #cccccc;
+}
+
+#title {
+    font-size: 100px;
+}
+
+#description {
+    font-size: 50px;
+}
+
+#button, #uploadedcaption, #similarcaption {
+    font-size: 20px;
+}
+
+#surprise {
+    font-size: 30px;
+}
+
+#button {
+    background-color: #bfbfff;
+    border-color: #0000bf;
+    border-width: 3px;
+    border-radius: 20px;
+}
+
+body * {
+    font-family: Lato;
+    color: #0000bf;
+    margin-left: 10px;
+}
+
+#input {
+    display: none;
+}
+
+img {
+    height: 200px;
+}
+
+#button {
+    margin-top: 20px;
+}
+
+svg {
+    margin-top: 20px;
+}
+
+#uploadedcaption, #similarcaption {
+    margin-top: 20px;
+}
+
+img {
+    margin-top: 10px;
+}
+
+#surprise {
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
